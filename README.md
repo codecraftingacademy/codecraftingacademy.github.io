@@ -1,2 +1,3 @@
-# codecraftingacademy.github.io
-Code Crafting Academy Web Site
+# Code Crafting Academy
+
+Please email info@codecraftsmen.org for more information.
