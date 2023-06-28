@@ -10,7 +10,7 @@ Code Crafting Academy
 Learn to Code
 =============
 
-**UNDER CONSTRUCTION**
+`Py101 <https://py101.readthedocs.io>`_: An Introduction to Computer Programming Using Python
 
 If you are looking for information on our Code Crafting Tools,
 please visit our `main site <https://www.codecraftsmen.org>`_.
@@ -19,3 +19,4 @@ please visit our `main site <https://www.codecraftsmen.org>`_.
    :hidden:
    :maxdepth: 1
 
+   external-resources
