@@ -1,4 +1,4 @@
 #!/bin/sh
 
-make html
-cp -r ./_build/html/* ../
+make singlehtml
+cp -r ./_build/singlehtml/* ../
